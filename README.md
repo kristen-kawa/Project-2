@@ -1,4 +1,4 @@
-# PythonProject-2
+# Python_Project_2
 You will need a few files in order to adequately run the code:
 
 1) The jupyter notebook
