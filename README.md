@@ -5,7 +5,7 @@ You will need the following files to run the code found in my Jupyter Notebook:
 1) ** Pairwise sequence alignment files (ALDH2*2 and ALDH2)
 2) ALDH2Seq.fasta
 
-The protein sequences for ALDH2 () and ALDH2* 2 (), along with ALDH2 found in mice, rats, __, and __  were both found on the NCBI database. According to their website, NCBI, which stands for the National Center for Biotechnology Information, "advances science and health by providing access to biomedical and genomic information." 
+> The protein sequences for ALDH2 () and ALDH2* 2 (), along with ALDH2 found in mice, rats, __, and __  were both found on the NCBI database. According to their website, NCBI, which stands for the National Center for Biotechnology Information, "advances science and health by providing access to biomedical and genomic information." 
 Upon downloading all _ FASTA files, the files were merged into a singular large FASTA file (), containing all __ sequences. The file, ALDH2Seq.fasta(i think) was obtained using the online tool: _ (idk what website I used to align the files but I believe it was uniprot?)
 
 Bibliography:
