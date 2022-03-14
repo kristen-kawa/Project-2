@@ -5,6 +5,8 @@ You will need the following files to run the code found in my Jupyter Notebook:
 1) ALDH2.fasta (protein sequence for wild type ALDH2 gene)
 2) ALDH2*2.fasta (protein sequence for Mutant ALDH2 gene)
 3) ALDH2_Shortened.fasta (ALDH2*2 and ALDH2 sequence for humans, mouse, rat, horse, and pig)
+4) model_02.pdb
+5) 1zum.pdb
 
 > The protein sequences for ALDH2 and ALDH2*2 (https://www.uniprot.org/uniprot/P05091), along with ALDH2 found in mice, rats, pig, and horse  were both found on the NCBI database. According to their website, NCBI, which stands for the National Center for Biotechnology Information, "advances science and health by providing access to biomedical and genomic information." 
 > Upon downloading the two human ALDH2 FASTA files, the files were downloaded into their own respective files. These files were also parsed and pre-aligned with the other 4 aforementioned sequences using Uniprot and were downloaded into a singular large FASTA file, ALDH2_Shortened.fasta. 
